@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">KhatraVideoPlayaer</string>
+    <string name="videos_layout">videos_layout\n</string>
+    <string name="folders_layout">folders_layout\n</string>
+    <string name="no_permission">no_permission\n</string>
+    <string name="request_again">request_again\n</string>
+    <string name="go_back">go_back</string>
+    <string name="seek_backward">seek_backward\n</string>
+    <string name="play_pause">play_pause</string>
+    <string name="seek_forward">seek_forward</string>
+    <string name="toggle_fitScreen">fit_screen</string>
+    <string name="rotate_screen">rotate_screen</string>
+</resources>
